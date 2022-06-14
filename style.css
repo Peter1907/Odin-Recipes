@@ -1,0 +1,58 @@
+#header {
+    text-align: center;
+}
+.topnav {
+    text-align: center;
+    background-color: #581845;
+    overflow: hidden;
+  }
+.topnav a {
+    float: left;
+    color: #DAF7A6;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.topnav a.active {
+    background-color: #DAF7A6;
+    color:  #581845;
+}
+.topnav a:hover {
+    background-color: #FFC300;
+    color: black;
+}
+.recipes {
+    text-align: center;
+    background-color: #C70039;
+    padding: 10px;
+}
+.recipes a {
+    color: white;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+.recipes a:hover {
+    background-color: #FFC300;
+    color: #581845;
+}
+.main {
+    background-color: black;
+    width: 70%;
+    height: 75vh;
+}
+.rate {
+    float: right;
+}
+.sidebar {
+    background-color: #DAF7A6;
+    width: 25%;
+    height: 100%;
+    float: right;
+}
+.sidebar h3 {
+    text-align: center;
+}
+.description {
+    text-align: center;
+}
